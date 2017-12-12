@@ -10,17 +10,28 @@ h1{
   text-decoration: none;
 }
 
-.header h1{
-  color: #5A783C;
+.headline h2{
+  font-size: 20px;
 }
 
 .header a{
+  text-decoration: none;
+  color: black;
+}
+
+.header h1{
+  color: #5A783C;
+  padding-bottom: 10px;
+}
+
+.nav a{
   color:black;
-  background:white; 
+  background:#668844; 
   display:inline-block; 
   margin-left: 5px;
   margin-right: 5px;
   margin-bottom: 10px;
+  padding-top: 10px;
   text-align:left;
   text-decoration:none;
   text-transform:uppercase; 
@@ -36,9 +47,10 @@ h1{
   font-size: 8px;
   color: black;
 }
+
 .nav li { 
   color: black;
-  background-color:white; 
+  background-color:#668844; 
   display: inline;
   margin: 5px;
   margin-bottom: 20px;
@@ -88,7 +100,7 @@ h4 {
 }
 
 .footer ul{
-  background-color: #29292a;
+  background-color: #5a783c;
   color: white;
   text-decoration: none;
   position: absolute;
