@@ -95,7 +95,7 @@ h4 {
   width: 100%;
   margin: 0px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 70px;
   text-align: center;
   height: 30px;
 }
@@ -105,13 +105,15 @@ h4 {
   position: relative;
   text-align: center;
   text-decoration: none;
+  pad
 }
 
 .footer li{
   display: inline;
   position: relative;
   bottom: 0;
-  margin: 20px;
+  margin: 40px;
+  padding-bottom: 20px;
 }
 
 /*  @media screen and (max-width: 420px) {
